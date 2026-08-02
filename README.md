@@ -405,33 +405,7 @@ Hospital Management Platform
 
 ---
 
-# 🐍 Contribution Snake
 
-> **Requires GitHub Actions**
-
-After creating the workflow, add this image:
-
-```html
-<p align="center">
-<img src="https://raw.githubusercontent.com/hilal138/hilal138/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-</p>
-```
-
----
-
-# 📅 GitHub Contribution Calendar
-
-> **Optional:** Add this after enabling GitHub Actions and GitHub Metrics.
-
-```html
-<p align="center">
-
-<img src="https://ghchart.rshah.org/409EFF/hilal138" alt="GitHub Contribution Chart"/>
-
-</p>
-```
-
----
 
 # 🌟 Fun Facts
 
