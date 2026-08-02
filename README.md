@@ -327,6 +327,167 @@ Hospital Management Platform
 
 🌍 Exploring Open Source
 
-⬇️ Continue scrolling for achievements, coding profiles, snake animation and more...
+
+</div>
+
+---
+
+# 📊 Coding Activity
+
+<div align="center">
+
+### 💻 Most Used Languages
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilal138&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏅 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hilal138&theme=algolia&no-frame=true&margin-w=15"/>
+
+</div>
+
+---
+
+# 🎯 Currently Learning
+
+<div align="center">
+
+| 🚀 Backend | ☁️ Cloud | 🛠 DevOps | 📚 CS Fundamentals |
+|------------|----------|-----------|--------------------|
+| Node.js | AWS | Docker | System Design |
+| Express.js | EC2 | GitHub Actions | Operating Systems |
+| REST APIs | S3 | CI/CD | Computer Networks |
+| Authentication | CloudFront | Linux | DBMS |
+
+</div>
+
+---
+
+# 🧠 Current Goals (2026)
+
+- 🚀 Build production-ready Full Stack applications
+- 🌍 Contribute consistently to Open Source
+- 📈 Strengthen System Design knowledge
+- ☁️ Deploy scalable applications on AWS
+- ⚡ Solve more DSA and competitive programming problems
+
+---
+
+# 📚 My Development Workflow
+
+```text
+💡 Idea
+   │
+   ▼
+📝 Plan
+   │
+   ▼
+🎨 Design
+   │
+   ▼
+💻 Code
+   │
+   ▼
+🧪 Test
+   │
+   ▼
+🚀 Deploy
+   │
+   ▼
+🔄 Improve
+```
+
+---
+
+# 🐍 Contribution Snake
+
+> **Requires GitHub Actions**
+
+After creating the workflow, add this image:
+
+```html
+<p align="center">
+<img src="https://raw.githubusercontent.com/hilal138/hilal138/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+</p>
+```
+
+---
+
+# 📅 GitHub Contribution Calendar
+
+> **Optional:** Add this after enabling GitHub Actions and GitHub Metrics.
+
+```html
+<p align="center">
+
+<img src="https://ghchart.rshah.org/409EFF/hilal138" alt="GitHub Contribution Chart"/>
+
+</p>
+```
+
+---
+
+# 🌟 Fun Facts
+
+<div align="center">
+
+| ☕ Fuel | 🌙 Coding Time | 💻 Favorite Stack | 🎯 Motto |
+|---------|----------------|-------------------|-----------|
+| Coffee | Late Night | MERN | Keep Learning |
+
+</div>
+
+---
+
+# 💬 Favorite Quote
+
+<div align="center">
+
+> **"The best error message is the one that never shows up."**  
+> — Thomas Fuchs
+
+</div>
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm always interested in collaborating on:
+
+- 🚀 Full Stack MERN Projects
+- 🌐 Open Source Contributions
+- 📱 Modern Web Applications
+- ⚙️ Backend APIs
+- ☁️ Cloud-based Solutions
+
+Feel free to connect with me if you have an exciting idea!
+
+---
+
+# 💖 Support My Work
+
+<div align="center">
+
+If you like my projects, consider giving them a ⭐.
+
+It motivates me to keep building and sharing!
+
+</div>
+
+---
+
+# 🌊 Thank You for Visiting
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=6,11,20,24,30"/>
+
+### ⭐ Happy Coding! ⭐
 
 </div>
