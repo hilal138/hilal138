@@ -151,3 +151,182 @@
 
 
 </div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+### 💼 Projects that showcase my skills in Full Stack Development
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+## 🌍 WahhTrips
+
+Modern Travel Booking Platform
+
+### ✨ Features
+
+- 🔐 JWT Authentication
+- 💳 Razorpay Payment Gateway
+- ☁️ Cloudinary Image Storage
+- 📱 Responsive UI
+- 📍 Hotel & Tour Booking
+- 👤 User Dashboard
+
+### 🛠 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,mongodb"/>
+
+</p>
+
+**Tech Used**
+
+`Next.js` `Node.js` `Express.js` `MongoDB`
+
+`JWT` `Cloudinary` `Razorpay`
+
+</td>
+
+<td width="50%">
+
+## 🏥 JNMC CareConnect
+
+Hospital Management Platform
+
+### ✨ Features
+
+- 👨‍⚕️ Role Based Access
+- 🧪 Laboratory Workflow
+- 📄 Medical Reports
+- ☁️ Cloud Storage
+- 📊 Admin Dashboard
+- 🔒 Secure REST APIs
+
+### 🛠 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb"/>
+
+</p>
+
+**Tech Used**
+
+`React`
+
+`Node.js`
+
+`Express.js`
+
+`MongoDB`
+
+`Cloudinary`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💻 Tech Expertise
+
+<div align="center">
+
+| Frontend | Backend | Database | Cloud |
+|-----------|----------|----------|--------|
+| React | Node.js | MongoDB | AWS |
+| Next.js | Express.js | MySQL | Vercel |
+| Tailwind CSS | REST APIs | Firebase | Docker |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hilal138&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilal138&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hilal138&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hilal138&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hilal138&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📌 What I'm Working On
+
+```text
+🚀 Building scalable MERN applications
+
+⚡ Improving Data Structures & Algorithms
+
+☁️ Learning AWS & Docker
+
+🧠 Exploring System Design
+
+🤝 Contributing to Open Source
+```
+
+---
+
+# 💡 Development Philosophy
+
+> **"Clean code, thoughtful design, and continuous learning are the foundation of great software."**
+
+---
+
+<div align="center">
+
+## 📈 GitHub Activity Overview
+
+⭐ Building projects
+
+🚀 Learning new technologies
+
+💻 Solving coding problems
+
+🌍 Exploring Open Source
+
+⬇️ Continue scrolling for achievements, coding profiles, snake animation and more...
+
+</div>
