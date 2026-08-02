@@ -149,6 +149,5 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-⬇️ **Next section:** Featured Projects • GitHub Analytics • Contribution Graph • GitHub Trophies
 
 </div>
