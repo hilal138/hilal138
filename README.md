@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Hilal Ahmad Sheikh
 
-### 💻 Full Stack MERN Developer | 🚀 Backend Enthusiast | 🧩 Competitive Programmer
+### 💻 Full Stack Web Developer | 🚀 Backend Enthusiast | 🧩 Competitive Programmer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=Building+Scalable+Web+Applications;Full+Stack+MERN+Developer;Competitive+Programmer;Open+Source+Learner;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
