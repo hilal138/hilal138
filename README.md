@@ -24,7 +24,7 @@
 
 # 🏆 Recent Highlights
 
-> 🥇 **1st Place Winner** – **AMU Hackathon 2026** with **Vercera 3.0** *(Healthcare application focused on secure patient report access)*
+> 🥇 **1st Place Winner** – **AMU Hackathon 2026**  *(Healthcare application focused on secure patient report access)*
 
 <div align="center">
 
